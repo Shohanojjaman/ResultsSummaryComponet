@@ -34,7 +34,7 @@ Users should be able to:
 ![](./assets/images/mobile-device(375px).png)
 ### Links
 
-- Solution URL: [Frontend Mentor | Results summary component coding challenge solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor | Results summary component coding challenge solution](https://www.frontendmentor.io/solutions/results-summary-component-kjOcMBRSWA)
 - Live Site URL: [Results Summary Component](https://shohanojjaman.github.io/ResultsSummaryComponet/)
 
 ## My process
