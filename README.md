@@ -10,9 +10,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -51,9 +48,9 @@ Users should be able to:
 
 ### What I learned
 
-By this porject I learn about custom attribute / data attribute and how to use this. Costom attribute help to a awesome design and also help to keep clean code.
+Through this project, I learn about custom attributes / data attributes and how to use this. Custom attribute help to an awesome design and also help to keep clean code.
 
-Here is the example of custom attribute: In this example, we will set the background colors of the elements using the CSS access that we just saw. As the custom attributes are plain HTML attributes, they can be accessed from CSS. For example, we can use attribute selectors to style the background color of the element.
+Here is an example of a custom attribute: In this example, we will set the background colors of the elements using the CSS access that we just saw. As the custom attributes are plain HTML attributes, they can be accessed from CSS. For example, we can use attribute selectors to style the background color of the element.
 
 ```html
 <!DOCTYPE html>
